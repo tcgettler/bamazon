@@ -1,0 +1,40 @@
+.header{
+    background-color:#000000;
+    height:10vh;
+}
+
+.logo{
+    height:10vh;
+    width:auto;
+    margin: 0 auto;
+}
+
+.card{
+    margin-top: 5%;
+    width:20vw;
+    height: auto;
+}
+.card-body{
+    padding-bottom:0;
+}
+
+.card-img-top{
+    width:auto;
+    height:40vh;
+}
+
+.quantity{
+    width:47%;
+}
+
+.card-text{
+    height: 10vh;
+}
+
+.cart-item{
+    height:10vh;
+}
+
+.btn-trash{
+    background-color:white;
+}
